@@ -1,0 +1,1 @@
+python ./scripts/register.py $1

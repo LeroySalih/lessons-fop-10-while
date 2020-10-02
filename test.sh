@@ -1,1 +1,1 @@
-python -m unittest tests -v
+python ./tests/__init__.py
