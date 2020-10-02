@@ -2,15 +2,17 @@
 <img src="images/python-logo.png" width="50" height="50"></img>
 
 # Fundamentals of Programming.
-## Numeric Operators
-### Part 1. - Starter
-Here we are going to run a _*starter*_
+## While Loops 
+### Starter
+In the file *starter.py* create for loop that prints the numbers 3 to 33 (inclusive).
 
-[here is a link to a video](www.youtube.com)
+### Part 1 - While Loops - counting
+* In the file *part1.py*, copy the code from the slide to see a simple while loop in action.
+* Edit the code so that the range of numbers printed becomes 20 to 30
 
-```python
+### Part 2 - While Loops - Go / Stop
+* In the file *part2.py*, copy the code from the slide to see an indefinate loop.
 
-def here_is_some_python_code
-    pass
-
-```
+### Part 3 - WHile Loops - Infinite Loops 
+* In the file *part3.py*, copy the code from the slide to see an infinate loop.
+* Edit the code so that the loop is no longer infinite.
