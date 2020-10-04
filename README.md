@@ -13,6 +13,6 @@ In the file *starter.py* create for loop that prints the numbers 3 to 33 (inclus
 ### Part 2 - While Loops - Go / Stop
 * In the file *part2.py*, copy the code from the slide to see an indefinate loop.
 
-### Part 3 - WHile Loops - Infinite Loops 
+### Part 3 - While Loops - Infinite Loops 
 * In the file *part3.py*, copy the code from the slide to see an infinate loop.
 * Edit the code so that the loop is no longer infinite.
